@@ -13,4 +13,9 @@ To run my submission and evaluate the script use the following command in a shel
 | Nearest Neighbor |     65.6 ms      |    80,785.95     |
 
 
-I tried a few methods. One of them was Simulated Annelation. This approach was abandoned as the temperatures and cooling rates would need to be adjusted based on the data utilized.
+I tried a few methods. One of them was Simulated Annealing. This approach was abandoned as the temperatures and cooling rate would require tuning to prove effective and the solution could still produce a poor result given the test data.
+
+References: 
+- https://www.geeksforgeeks.org/greedy-algorithms/
+- https://iopscience.iop.org/article/10.1088/1757-899X/166/1/012029
+- 
