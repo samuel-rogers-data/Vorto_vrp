@@ -8,3 +8,9 @@ To run my submission and evaluate the script use the following command in a shel
 
 - Python 3.9.1
 
+|      Method      |   Mean Run Time  |    Mean Cost     |
+| ---------------- | ---------------- | ---------------- |
+| Nearest Neighbor |     65.6 ms      |    80,785.95     |
+
+
+I tried a few methods. One of them was Simulated Annelation. This approach was abandoned as the temperatures and cooling rates would need to be adjusted based on the data utilized.
